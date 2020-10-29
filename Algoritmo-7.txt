@@ -1,0 +1,9 @@
+Resolución ejercicio 7
+1)Inicio
+2)Se pide ingresar el valor del costo por Kilovatio/hora.
+3)Se pide ingresar el número de kilovatios consumidos al mes.
+4)Multiplicar el costo de Kilovatio/hora y el resultado multiplicarlo con el número de Kilovatios consumidos al mes.
+5)Se pide ingresar la edad del usuario.
+6)Solo en caso de que el usuario tenga una edad mayor a 65 años, al valor total de la mutiplicación por 0.10 y ese valor será descontado
+7)Se muentra en pantalla el valor total a pagar de la planilla.
+7)Fin.

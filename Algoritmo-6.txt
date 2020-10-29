@@ -1,0 +1,8 @@
+Resolución Algoritmo 6.
+1)Inicio.
+2)Se pide ingresar el monto del préstamo.
+3)Se divide el monto del prestamo para 12.
+4)Se pide ingresar el interés mensaul a cobrar.
+5)Se suma el interés mensual a cobrar al resultado de la dividición del monto dividido para 12.
+6)Se muestra en pantalla el valor total a pagar mensualmente.
+7)Fin.

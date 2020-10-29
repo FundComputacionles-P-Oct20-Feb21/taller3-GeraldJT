@@ -1,0 +1,8 @@
+Resolución Ejercicio 2
+1)Inicio.
+2)Se pide ingresar los gastos del primer hijo.
+3)Se pide ingresar los gastos del segundo hijo.
+4)Se pide ingresar los datos del tercer hijo.
+5)Calcular sumando los gastos de los 3 hijos.
+6)Mostrar el resultado de la suma como gastos totales.
+7)FIn.

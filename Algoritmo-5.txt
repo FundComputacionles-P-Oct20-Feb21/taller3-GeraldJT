@@ -1,0 +1,9 @@
+Solución del algoritmo 5
+1)Inicio
+2)Se pide ingresar el valor del CPU.
+3)Se pide ingresar el valor del teclado.
+4)Se pide ingresar el valor de la pantalla.
+5)Se pide ingresar el valor del ratón.
+6)Se suma el valor del CPU,teclado,pantalla y ratón.
+7)Se muestra en pantalla el valor total obtenido.
+8)Fin. 
