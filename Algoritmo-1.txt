@@ -1,1 +1,8 @@
 Resolución de ejercicio 1
+1)Inicio 
+2)Ingresar datos de altura del triangulo
+3)Ingresar la base del triángulo
+4)Multiplicar la base por altura
+5)Dividir el producto de base por altura para dos
+6)Mostrar un mensaje con el resultado
+7)fin
